@@ -6,7 +6,7 @@ Guide for use.
 
 1) Launch your VS Code or any other IDE 
 2) Go to venv/Include/main.py 
-3) Throw the images you need in the directory, canceled by the path: venv/undone 
+3) Throw the images you need in the directory, by the path: venv/undone 
 4) Run the script in main.py
 5) You create all the finished images in the Done file by the path: venv/done The number of images is unlimited, you can put an infinite number of photos in the undone folder, the script processes them all at once quickly, this method can be used to train machine review.
 
